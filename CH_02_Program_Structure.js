@@ -20,7 +20,7 @@ const fizzBuzz = (n = 100) => {
       console.log(i)
     }
   }
-}
+};
 
 // 2.3 Chessboard
 const createChessboard = (n = 8) => {
@@ -40,4 +40,4 @@ const createChessboard = (n = 8) => {
     board += row + '\n';
   }
   return board;
-}
+};
